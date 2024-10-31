@@ -1,3 +1,5 @@
+### Hi, i'm Erik!
+
 # 💫 About Me:
 A black cat crossing paths in the moonlight. Walking the fine line between mystery and mastery. 🖤 🐾 Luck isn’t found, it’s made. 
 I’m here to make my own.

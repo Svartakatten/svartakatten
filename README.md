@@ -59,7 +59,7 @@ I work across **software and hardware**, merging intelligence with machine preci
 
 **Instagram:**  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_airikrr)  
 
-**WhatsApp:** [Message me](https://wa.me/+46761454783)
+**WhatsApp:** [Contact me](https://wa.me/+46761454783)
 
 ---
 # Tech Stack:

@@ -20,17 +20,17 @@ It’s about **absolute innovation**:
 
 ---
 
-## ** Tech Arsenal**  
+## **Tech Arsenal**  
 I work across **software and hardware**, merging intelligence with machine precision.
 
-** Core Expertise:**  
+**Core Expertise:**  
 - **Low-Level & Systems Programming**: C, C++, Assembly  
 - **AI & Machine Learning**: Python, TensorFlow, PyTorch  
 - **Cybersecurity & Encryption**: Reverse Engineering, Networking, Red Teaming  
 - **Cloud & Scalable Systems**: Azure, Kubernetes, Docker  
 - **Embedded Systems & Hardware**: Raspberry Pi, FPGA, IoT 
 
-** Specialized Fields:**  
+**Specialized Fields:**  
 - **Autonomous AI Systems**  
 - **Military-Grade Software & Security**  
 - **Hardware-Integrated Intelligence**  

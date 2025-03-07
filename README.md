@@ -10,6 +10,7 @@ A ghost in the machine, building the future. I don’t just write code. I design
 🔹 Architecting AI-driven systems that **evolve, adapt, and dominate**.  
 🔹 Preparing for **something much bigger** than just another tech company. 
 
+---
 ## **The Mission**  
 I don’t just want to build software. I want to **engineer the future**. The goal isn’t just another app or another company.  
 It’s about **absolute innovation**:  
@@ -19,7 +20,6 @@ It’s about **absolute innovation**:
 "I strive to push the boundaries of technology, creating solutions that seamlessly blend intelligence, automation, and hardware."
 
 ---
-
 ## **Tech Arsenal**  
 I work across **software and hardware**, merging intelligence with machine precision.
 
@@ -37,14 +37,12 @@ I work across **software and hardware**, merging intelligence with machine preci
 - **Custom Operating Systems & Environments**  
 
 ---
-
 ## **What’s Coming**  
 🔜 **An interactive CV**—a **fully dynamic experience** showcasing projects and vision.  
 🔜 **Prototypes & Research**—AI models, robotics, and real-world applications.  
 🔜 **The foundation of something far bigger than a company.**  
 
 ---
-
 ## Socials:
 
 **Email:**  rikexhx@gmail.com  
@@ -55,6 +53,7 @@ I work across **software and hardware**, merging intelligence with machine preci
 
 **Instagram:**  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_airikrr)  
 
+---
 # Tech Stack:
 
 **Languages:** 
@@ -69,7 +68,7 @@ I work across **software and hardware**, merging intelligence with machine preci
 **Tools & Others:** 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=plastic&logo=cisco&logoColor=black) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=plastic&logo=Raspberry-Pi)
 
-
+---
 ## GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Svartakatten&theme=radical&hide_border=false&include_all_commits=true&count_private=true)  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Svartakatten&theme=radical&hide_border=false)  
@@ -77,5 +76,4 @@ I work across **software and hardware**, merging intelligence with machine preci
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Svartakatten&icon=5&color=1)](https://visitcount.itsvg.in)
-
 🖤🐾 **Svartakatten**

@@ -1,10 +1,21 @@
-# Hi, i'm Erik!
+# Hi, I'm Erik! 🖤🐾  
+### Software Engineer | Full-Stack Developer | Problem Solver
+
 A black cat crossing paths in the moonlight. Walking the fine line between mystery and mastery. 🖤 🐾 Luck isn’t found, it’s made. 
 I’m here to make my own.
 
+## 💡 About Me  
+- 🎯 Passionate about building scalable and efficient software solutions.  
+- 🛠 Specializing in **C#, .NET, JavaScript, and Cloud technologies**.  
+- 🚀 Experienced in **backend development, databases, and DevOps practices**.  
+- 📌 Seeking opportunities in **software engineering, cloud development, or DevOps**.
+- 🌍 Open to remote & hybrid opportunities.  
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/airikrr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/svartakatten) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_airikrr)
+**Email:** rikexhx@gmail.com
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/airikrr) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/svartakatten) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_airikrr)
 
 # 💻 Tech Stack:
 

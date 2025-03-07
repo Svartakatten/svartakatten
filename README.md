@@ -3,6 +3,8 @@
 
 > "Luck isn’t found. It’s made." 
 
+Innovation isn’t a solo mission. If you're looking for someone who can push technology forward, solve impossible problems, and build systems that last, then you're in the right place. I bring precision, adaptability, and vision because the future won’t build itself.
+
 Building the future. I don’t just write code. I design systems that shape reality. From AI-driven intelligence to advanced hardware, I create solutions **beyond today’s limits**.
 
 🔹 Designing **next-gen software** that pushes the boundaries of technology.  

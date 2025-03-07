@@ -1,15 +1,49 @@
 # Hi, I'm Erik! 🖤🐾  
-### Software Engineer | Full-Stack Developer | Problem Solver
+### Software Engineer | AI Visionary | Hardware Innovator
 
-A black cat crossing paths in the moonlight. Walking the fine line between mystery and mastery. 🖤 🐾 Luck isn’t found, it’s made. 
-I’m here to make my own.
+> "Luck isn’t found. It’s made." 
 
-## 💡 About Me  
-- 🎯 Passionate about building scalable and efficient software solutions.  
-- 🛠 Specializing in **C#, .NET, JavaScript, and Cloud technologies**.  
-- 🚀 Experienced in **backend development, databases, and DevOps practices**.  
-- 📌 Seeking opportunities in **software engineering, cloud development, or DevOps**.
-- 🌍 Open to remote & hybrid opportunities.  
+A ghost in the machine, building the future. I don’t just write code. I design systems that shape reality. From AI-driven intelligence to advanced hardware, I create solutions **beyond today’s limits**.
+
+🔹 Designing **next-gen software** that pushes the boundaries of technology.  
+🔹 Bridging the gap between **software and hardware** to create seamless innovation.  
+🔹 Architecting AI-driven systems that **evolve, adapt, and dominate**.  
+🔹 Preparing for **something much bigger** than just another tech company. 
+
+## **The Mission**  
+I don’t just want to build software. I want to **engineer the future**. The goal isn’t just another app or another company.  
+It’s about **absolute innovation**:  
+
+"Laying the groundwork for a future where AI, hardware, and security evolve beyond what we know today."
+
+"I strive to push the boundaries of technology, creating solutions that seamlessly blend intelligence, automation, and hardware."
+
+---
+
+## ** Tech Arsenal**  
+I work across **software and hardware**, merging intelligence with machine precision.
+
+** Core Expertise:**  
+- **Low-Level & Systems Programming**: C, C++, Assembly  
+- **AI & Machine Learning**: Python, TensorFlow, PyTorch  
+- **Cybersecurity & Encryption**: Reverse Engineering, Networking, Red Teaming  
+- **Cloud & Scalable Systems**: Azure, Kubernetes, Docker  
+- **Embedded Systems & Hardware**: Raspberry Pi, FPGA, IoT 
+
+** Specialized Fields:**  
+- **Autonomous AI Systems**  
+- **Military-Grade Software & Security**  
+- **Hardware-Integrated Intelligence**  
+- **Custom Operating Systems & Environments**  
+
+---
+
+## **What’s Coming**  
+🔜 **An interactive CV**—a **fully dynamic experience** showcasing projects and vision.  
+🔜 **Prototypes & Research**—AI models, robotics, and real-world applications.  
+🔜 **The foundation of something far bigger than a company.**  
+
+---
 
 ## 🌐 Socials:
 **Email:** rikexhx@gmail.com
@@ -17,7 +51,7 @@ I’m here to make my own.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/svartakatten) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_airikrr)
 
-# 💻 Tech Stack:
+# Tech Stack:
 
 **Languages:** 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=plastic&logo=lua&logoColor=white)
@@ -39,3 +73,5 @@ I’m here to make my own.
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Svartakatten&icon=5&color=1)](https://visitcount.itsvg.in)
+
+🖤🐾 **Svartakatten**

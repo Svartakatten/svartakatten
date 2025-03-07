@@ -12,7 +12,7 @@ Building the future. I don’t just write code. I design systems that shape real
 
 ---
 ## **The Mission**  
-I don’t just want to build software. I want to **engineer the future**. The goal isn’t just another app or another company.  
+I don’t just want to build software. I will **engineer the future**. The goal isn’t just another app or another company.  
 It’s about **absolute innovation**:  
 
 "Laying the groundwork for a future where AI, hardware, and security evolve beyond what we know today."

@@ -10,9 +10,7 @@ Building the future. I don’t just write code. I design systems that shape real
 🔹 Architecting AI-driven systems that **evolve, adapt, and dominate**.  
 🔹 Preparing for **something much bigger** than just another tech company. 
 
-Innovation isn’t a solo mission. If you're looking for someone who can push technology forward, solve impossible problems, and build systems that last, then you're in the right place. I bring precision, adaptability, and vision because the future won’t build itself.
-
-I have good analytical skills and read between the lines which makes it possible for me to support and add value to your organization from day one
+Innovation isn’t a solo mission. If you're looking for someone who can push technology forward, solve impossible problems, and build systems that last, then you're in the right place. I bring precision, adaptability, and vision because the future won’t build itself. I have good analytical skills and read between the lines which makes it possible for me to support and add value to your organization from day one
 
 ---
 ## **The Mission**  

@@ -3,7 +3,7 @@
 
 > "Luck isn’t found. It’s made." 
 
-A ghost in the machine, building the future. I don’t just write code. I design systems that shape reality. From AI-driven intelligence to advanced hardware, I create solutions **beyond today’s limits**.
+Building the future. I don’t just write code. I design systems that shape reality. From AI-driven intelligence to advanced hardware, I create solutions **beyond today’s limits**.
 
 🔹 Designing **next-gen software** that pushes the boundaries of technology.  
 🔹 Bridging the gap between **software and hardware** to create seamless innovation.  

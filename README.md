@@ -55,8 +55,6 @@ I work across **software and hardware**, merging intelligence with machine preci
 
 **Email:**  rikexhx@gmail.com  
 
-**Discord:**  [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/airikrr)  
-
 **LinkedIn:**  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/svartakatten)  
 
 **WhatsApp:** [Contact me](https://wa.me/+46761454783)

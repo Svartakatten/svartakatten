@@ -32,11 +32,11 @@ It’s about **absolute innovation**:
 I work across **software and hardware**, merging intelligence with machine precision.
 
 **Core Expertise:**  
-- **Low-Level & Systems Programming**: C, C++, Assembly  
+- **Low-Level & Systems Programming**: C#, C++
 - **AI & Machine Learning**: Python, TensorFlow, PyTorch  
-- **Cybersecurity & Encryption**: Reverse Engineering, Networking, Red Teaming  
-- **Cloud & Scalable Systems**: Azure, Kubernetes, Docker  
-- **Embedded Systems & Hardware**: Raspberry Pi, FPGA, IoT 
+- **Cybersecurity & Encryption**: Reverse Engineering, Networking 
+- **Cloud & Scalable Systems**: Azure, Docker  
+- **Embedded Systems & Hardware**: Raspberry Pi, Arduino, IoT 
 
 **Specialized Fields:**  
 - **Autonomous AI Systems**  
@@ -46,7 +46,7 @@ I work across **software and hardware**, merging intelligence with machine preci
 
 ---
 ## **What’s Coming**  
-🔜 **An interactive CV**—a **fully dynamic experience** showcasing projects and vision.  
+🔜 **An interactive CV** a **fully dynamic experience** showcasing projects and vision.  
 🔜 **Prototypes & Research**—AI models, robotics, and real-world applications.  
 🔜 **The foundation of something far bigger than a company.**  
 

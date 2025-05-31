@@ -40,15 +40,9 @@ I work across **software and hardware**, merging intelligence with machine preci
 
 **Specialized Fields:**  
 - **Autonomous AI Systems**  
-- **Military-Grade Software & Security**  
 - **Hardware-Integrated Intelligence**  
 - **Custom Operating Systems & Environments**  
 
----
-## **What’s Coming**  
-🔜 **An interactive CV** a **fully dynamic experience** showcasing projects and vision.  
-🔜 **Prototypes & Research**—AI models, robotics, and real-world applications.  
-🔜 **The foundation of something far bigger than a company.**  
 
 ---
 ## Socials:

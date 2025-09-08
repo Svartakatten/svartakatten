@@ -15,8 +15,8 @@ Innovation isn’t a solo mission. If you're looking for someone who can push te
 **Looking for Remote Work**
 
 ## **Languages:**  
-- **Native:** Swedish 🇸🇪  
-- **Fluent:** English 🇬🇧 (Used daily, both written and spoken)  
+- **Native:** Swedish 
+- **Fluent:** English (Used daily, both written and spoken)  
 
 ---
 ## **The Mission**  

@@ -23,7 +23,7 @@ I'm searching for opportunities where I can join a team, tackle hard problems, a
 
 ---
 
-**I thrive in collaborative environments where we can share ideas openly and work together to build something better than any one of us could alone. I'm here to contribute, learn, and make a real impact.**
+I thrive in collaborative environments where we can share ideas openly and work together to build something better than any one of us could alone. I'm here to contribute, learn, and make a real impact.
 
 **If your team values curiosity and is working on something exciting, I would genuinely love to hear from you.**
 

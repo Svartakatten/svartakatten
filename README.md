@@ -51,8 +51,6 @@ I work across **software and hardware**, merging intelligence with machine preci
 
 **LinkedIn:**  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/svartakatten)  
 
-**WhatsApp:** [Contact me](https://wa.me/+46761454783)
-
 ---
 # Tech Stack:
 

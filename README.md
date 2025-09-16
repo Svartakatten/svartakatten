@@ -7,7 +7,7 @@ For me, software is a creative tool for solving fascinating puzzles. I'm driven 
 
 My inspiration comes from observing how things work, from the incredible efficiency in nature to the solid, dependable logic of mechanical design. This perspective helps me build AI that isn't just smart, but also practical and resilient.
 
-What I'm passionate about building:
+### What I'm passionate about building:
 
 - Intelligent Solutions: Bringing ideas to life with AI and machine learning, turning complex data into clear actions.
 
@@ -22,9 +22,10 @@ I'm searching for opportunities where I can join a team, tackle hard problems, a
 - **Fluent:** English (Used daily, both written and spoken)  
 
 ---
-## I thrive in collaborative environments where we can share ideas openly and work together to build something better than any one of us could alone. I'm here to contribute, learn, and make a real impact.
 
-### If your team values curiosity and is working on something exciting, I would genuinely love to hear from you.
+**I thrive in collaborative environments where we can share ideas openly and work together to build something better than any one of us could alone. I'm here to contribute, learn, and make a real impact.**
+
+**If your team values curiosity and is working on something exciting, I would genuinely love to hear from you.**
 
 ---
 ## Socials:
@@ -35,7 +36,7 @@ I'm searching for opportunities where I can join a team, tackle hard problems, a
 
 ---
 # Tech Stack:
-## These are the technologies I enjoy using to bring ideas to life.
+**These are the technologies I enjoy using to bring ideas to life.**
 
 
 **Languages:** 

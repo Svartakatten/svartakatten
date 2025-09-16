@@ -1,5 +1,5 @@
 # Hi, I'm Erik! 🖤🐾  
-### An AI Software Engineer
+## AI Software Engineer
 
 > "I believe the best work comes from genuine curiosity. It's about asking 'what if?', diving deep to find an answer, and building a solution you can be proud of." 
 

@@ -1,5 +1,5 @@
 # Hi, I'm Erik! 🖤🐾  
-### AI Software Engineer
+### A AI Software Engineer
 
 > "Luck isn’t found. It’s made." 
 

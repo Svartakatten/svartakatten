@@ -1,48 +1,30 @@
 # Hi, I'm Erik! 🖤🐾  
-### A AI Software Engineer
+### An AI Software Engineer
 
-> "Luck isn’t found. It’s made." 
+> "I believe the best work comes from genuine curiosity. It's about asking 'what if?', diving deep to find an answer, and building a solution you can be proud of." 
 
-Building the future. I don’t just write code. I design systems that shape reality. From AI-driven intelligence to advanced hardware, I create solutions **beyond today’s limits**.
+For me, software is a creative tool for solving fascinating puzzles. I'm driven by the challenge of building intelligent systems, especially in that exciting space where code meets the physical world. There's a special kind of magic in writing software that can think, learn, and interact with its environment, and that's the feeling I chase in my work.
 
-🔹 Designing **next-gen software** that pushes the boundaries of technology.  
-🔹 Bridging the gap between **software and hardware** to create seamless innovation.  
-🔹 Architecting AI-driven systems that **evolve, adapt, and dominate**.  
-🔹 Preparing for **something much bigger** than just another tech company. 
+My inspiration comes from observing how things work, from the incredible efficiency in nature to the solid, dependable logic of mechanical design. This perspective helps me build AI that isn't just smart, but also practical and resilient.
 
-Innovation isn’t a solo mission. If you're looking for someone who can push technology forward, solve impossible problems, and build systems that last, then you're in the right place. I bring precision, adaptability, and vision because the future won’t build itself. I have good analytical skills and read between the lines which makes it possible for me to support and add value to your organization from day one
+What I'm passionate about building:
 
-**Looking for Remote Work**
+- Intelligent Solutions: Bringing ideas to life with AI and machine learning, turning complex data into clear actions.
+
+- Interactive Systems: Creating a seamless connection between software and hardware, making technology feel responsive and intuitive.
+
+- Future-Ready Code: Building clean, thoughtful software that is built to last and can easily grow and adapt over time.
+
+I'm searching for opportunities where I can join a team, tackle hard problems, and keep growing.
 
 ## **Languages:**  
 - **Native:** Swedish 
 - **Fluent:** English (Used daily, both written and spoken)  
 
 ---
-## **The Mission**  
-I don’t just want to build software. I will **engineer the future**. The goal isn’t just another app or another company.  
-It’s about **absolute innovation**:  
+## I thrive in collaborative environments where we can share ideas openly and work together to build something better than any one of us could alone. I'm here to contribute, learn, and make a real impact.
 
-"Laying the groundwork for a future where AI, hardware, and security evolve beyond what we know today."
-
-"I strive to push the boundaries of technology, creating solutions that seamlessly blend intelligence, automation, and hardware."
-
----
-## **Tech Arsenal**  
-I work across **software and hardware**, merging intelligence with machine precision.
-
-**Core Expertise:**  
-- **Low-Level & Systems Programming**: C#, C++
-- **AI & Machine Learning**: Python, TensorFlow, PyTorch  
-- **Cybersecurity & Encryption**: Reverse Engineering, Networking 
-- **Cloud & Scalable Systems**: Azure, Docker  
-- **Embedded Systems & Hardware**: Raspberry Pi, Arduino, IoT 
-
-**Specialized Fields:**  
-- **Autonomous AI Systems**  
-- **Hardware-Integrated Intelligence**  
-- **Custom Operating Systems & Environments**  
-
+### If your team values curiosity and is working on something exciting, I would genuinely love to hear from you.
 
 ---
 ## Socials:
@@ -53,6 +35,8 @@ I work across **software and hardware**, merging intelligence with machine preci
 
 ---
 # Tech Stack:
+## These are the technologies I enjoy using to bring ideas to life.
+
 
 **Languages:** 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) 

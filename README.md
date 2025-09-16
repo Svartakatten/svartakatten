@@ -35,7 +35,7 @@ I thrive in collaborative environments where we can share ideas openly and work 
 **LinkedIn:**  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/svartakatten)  
 
 ---
-My Tools
+## My Tools:
 
 I'm a fast learner who believes in using the right tool for the job. While I'm always exploring new technologies, here’s a snapshot of the tools I have the most experience with.
 

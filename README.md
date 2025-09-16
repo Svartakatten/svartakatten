@@ -52,7 +52,7 @@ I'm a fast learner who believes in using the right tool for the job. While I'm a
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=plastic&logo=Raspberry-Pi)
 
 ---
-**My Engineering Approach**
+## **My Engineering Approach**
 ### Beyond specific tools, my focus is on building things the right way.
 
 - System Design: I enjoy thinking about the bigger picture to create software that is scalable and maintainable.

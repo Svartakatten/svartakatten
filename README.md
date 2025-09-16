@@ -53,7 +53,7 @@ I'm a fast learner who believes in using the right tool for the job. While I'm a
 
 ---
 **My Engineering Approach**
-Beyond specific tools, my focus is on building things the right way.
+### Beyond specific tools, my focus is on building things the right way.
 
 - System Design: I enjoy thinking about the bigger picture to create software that is scalable and maintainable.
 

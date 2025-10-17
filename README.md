@@ -1,7 +1,7 @@
 # Hi, I'm Erik! 🖤🐾  
 ## AI Software Engineer
 
-> "I believe the best work comes from genuine curiosity. It's about asking 'what if?', diving deep to find an answer, and building a solution you can be proud of." 
+> "I believe the best work comes from genuine curiosity. It's about diving deep to find an answer, and building a solution you can be proud of." 
 
 For me, software is a creative tool for solving fascinating puzzles. I'm driven by the challenge of building intelligent systems, especially in that exciting space where code meets the physical world. There's a special kind of magic in writing software that can think, learn, and interact with its environment, and that's the feeling I chase in my work.
 

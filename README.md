@@ -35,10 +35,10 @@ I thrive in collaborative environments where we can share ideas openly and work 
 ---
 ## My Tools:
 
-I'm a fast learner who believes in using the right tool for the job. While I'm always exploring new technologies, here’s a snapshot of the tools I have the most experience with.
+I believe in using the right tool for the job. While I'm always exploring new technologies, here’s a snapshot of the tools I have the most experience with.
 
 **Languages:** 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) 
+![Java](https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) 
 
 **Frontend & Backend:** 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white)
@@ -59,7 +59,7 @@ I'm a fast learner who believes in using the right tool for the job. While I'm a
 
 - Clean Code: I believe in writing code that is readable, efficient, and easy for others to work on.
 
-- Adaptability: My core skill is learning quickly to solve the problem at hand, regardless of the specific technology.
+- Adaptability: My core skill is learning over time and breaking down problems to solve, regardless of the specific technology.
 ---
 [![](https://visitcount.itsvg.in/api?id=Svartakatten&icon=5&color=1)](https://visitcount.itsvg.in)
 🖤🐾 **Svartakatten**

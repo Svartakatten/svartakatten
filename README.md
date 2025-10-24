@@ -15,8 +15,6 @@ My inspiration comes from observing how things work, from the incredible efficie
 
 - Future-Ready Code: Building clean, thoughtful software that is built to last and can easily grow and adapt over time.
 
-I'm searching for opportunities where I can join a team, tackle hard problems, and keep growing.
-
 ## **Languages:**  
 - **Native:** Swedish 
 - **Fluent:** English (Used daily, both written and spoken)  

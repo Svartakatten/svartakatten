@@ -1,15 +1,11 @@
-# Hi, I'm Erik! 🖤🐾  
+# Hi, I'm Erik!   
 ## Junior Systems Engineer
 
 > "I believe the best work comes from genuine curiosity. It's about diving deep to find an answer, and building a solution you can be proud of." 
 
 For me, software is a creative tool for solving fascinating puzzles. I'm driven by the challenge of building intelligent systems, especially in that exciting space where code meets the physical world. There's a special kind of magic in writing software that can think, learn, and interact with its environment, and that's the feeling I chase in my work.
 
-My inspiration comes from observing how things work, from the incredible efficiency in nature to the solid, dependable logic of mechanical design. This perspective helps me build AI that isn't just smart, but also practical and resilient.
-
 ### What I'm passionate about building:
-
-- Intelligent Solutions: Bringing ideas to life with AI and machine learning, turning complex data into clear actions.
 
 - Interactive Systems: Creating a seamless connection between software and hardware, making technology feel responsive and intuitive.
 
@@ -33,23 +29,6 @@ I thrive in collaborative environments where we can share ideas openly and work 
 **LinkedIn:**  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/svartakatten)  
 
 ---
-## My Tools:
-
-I believe in using the right tool for the job. While I'm always exploring new technologies, here’s a snapshot of the tools I have the most experience with.
-
-**Languages:** 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c%2B%2B-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
-
-**Frontend & Backend:** 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white)
-
-**Databases & Cloud:** 
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white)  
-
-**Tools & Others:** 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=plastic&logo=Raspberry-Pi)
-
----
 ## **My Engineering Approach**
 ### Beyond specific tools, my focus is on building things the right way.
 
@@ -62,4 +41,4 @@ I believe in using the right tool for the job. While I'm always exploring new te
 - Adaptability: My core skill is learning over time and breaking down problems to solve, regardless of the specific technology.
 ---
 [![](https://visitcount.itsvg.in/api?id=Svartakatten&icon=5&color=1)](https://visitcount.itsvg.in)
-🖤🐾 **Svartakatten**
+ **Svartakatten**

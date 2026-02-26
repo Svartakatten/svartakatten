@@ -1,5 +1,5 @@
 # Hi, I'm Erik! 🖤🐾  
-## AI Software Engineer
+## Junior Systems Engineer
 
 > "I believe the best work comes from genuine curiosity. It's about diving deep to find an answer, and building a solution you can be proud of." 
 

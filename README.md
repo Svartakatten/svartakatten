@@ -29,16 +29,4 @@ I thrive in collaborative environments where we can share ideas openly and work 
 **LinkedIn:**  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/svartakatten)  
 
 ---
-## **My Engineering Approach**
-### Beyond specific tools, my focus is on building things the right way.
-
-- System Design: I enjoy thinking about the bigger picture to create software that is scalable and maintainable.
-
-- Problem-Solving: I have a methodical approach to debugging and finding the root cause of complex issues.
-
-- Clean Code: I believe in writing code that is readable, efficient, and easy for others to work on.
-
-- Adaptability: My core skill is learning over time and breaking down problems to solve, regardless of the specific technology.
----
-[![](https://visitcount.itsvg.in/api?id=Svartakatten&icon=5&color=1)](https://visitcount.itsvg.in)
  **Svartakatten**

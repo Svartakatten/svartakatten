@@ -1,7 +1,7 @@
 # Hi, I'm Erik!   
 ## Junior Systems Engineer
 
-Software is a creative tool for solving fascinating puzzles. I'm driven by the challenge of building intelligent systems, especially in that exciting space where software meets hardware. There's a special kind of magic in writing software that can think, learn, and interact with its environment, and that's the feeling I chase in my work.
+Software is a creative tool for solving fascinating puzzles. Driven by the challenge of building intelligent systems, especially in that exciting space where software meets hardware. There's a special kind of magic in writing software that can think, learn, and interact with its environment, and that's the feeling I chase in my work.
 
 ### What I'm passionate about building:
 
